@@ -3,9 +3,12 @@
     background-color: #cccccc;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    
 }
 
 h1, p, h4 {
  color: rgb(250,235,215);
+}
+
+h3 {
+  color: rgb(255, 215, 0);
 }
