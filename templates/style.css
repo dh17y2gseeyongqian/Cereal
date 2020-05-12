@@ -3,6 +3,8 @@
     background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-full-starry-night-sky-background-sky-backgroundastronomical-starry-image_68965.jpg");
     background-color: #cccccc;
     background-size: cover;
+    background-repeat: no-repeat;
+    
 }
 
 h1 {
