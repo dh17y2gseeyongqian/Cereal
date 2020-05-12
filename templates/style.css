@@ -1,6 +1,6 @@
- 
-body{ 
-    background-image: url(img/bg-nightsky-adjusted.jpg);
-    background-repeat: repeat-x;
+ html { 
+    height: 100%;
+    background-image: url(img/bg-nightsky-adjusted.jpg) centre;
+    background-size: cover;
 }
 
