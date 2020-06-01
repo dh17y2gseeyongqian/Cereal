@@ -15,3 +15,7 @@ h3 {
   color: rgb(255, 215, 0);
   text-align: centre;
 }
+mark {
+  background-color: rgb(220,220,220);
+  color: rgb(100,149,237);
+}
